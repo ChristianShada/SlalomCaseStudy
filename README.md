@@ -1,6 +1,6 @@
 # Slalom Case Study
 ### Question: What is the impact of rain and temperature on listing vacancies in Seattle in 2016?<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_The challenge:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My customer wants to know how the 2016 weather patterns affected the Air B&B vacancies. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A possibly side study: How is tourism affected as a result of Air B&Bs vacancy levels?_
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_The challenge:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My customer wants to know how the 2016 weather patterns affected the Air B&B vacancies._ 
 
 ## Overview <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This dataset was challengeing in that it took me a while to understand what my goal was. In my opinion, if you don't know what your goal is and what you want to achieve, you will end up coding in circles and not really having a straight focus of what you want. I took some time to re-read the question that I had chosen. I looked over the data in more depth so I can become more familiar with it. Knowing what wa son each page helped me understand the data, what it was telling me, and most important, what I could learn from it. Diving into my familiarity with Python, I got started.<br>
