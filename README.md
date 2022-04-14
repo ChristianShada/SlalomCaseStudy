@@ -3,7 +3,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_The challenge:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My customer wants to know how the 2016 weather patterns affected the Air B&B vacancies. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A possibly side study: How is tourism affected as a result of Air B&Bs vacancy levels?_
 
 ## Overview <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After receiving the data, I quickly looked over it and realized that there were similarities to which I could utilize in either Python or SQL. As my strength lies in using Python in Jupyter Notebook and Tableau that would exhibit graphs that would best show my findings. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This dataset was challengeing in that it took me a while to understand what my goal was. In my opinion, if you don't know what your goal is and what you want to achieve, you will end up coding in circles and not really having a straight focus of what you want. I took some time to re-read the question that I had chosen. I looked over the data in more depth so I can become more familiar with it. Knowing what wa son each page helped me understand the data, what it was telling me, and most important, what I could learn from it. Diving into my familiarity with Python, I got started.
+
 
 ## Data Integration<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In working with the data, I was able to work through Jupyter Notebook to manipulate the data to specifically 
