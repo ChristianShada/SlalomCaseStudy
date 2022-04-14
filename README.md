@@ -17,11 +17,12 @@
 
 ## Q&A
 
-**Thank you for your consideration**
+What I would have enoyed digging in more is:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How is Seattle Trending? - How does the popularity of Air B&B trend in the Seattle Area<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What property has the highest reviews and why? - How are the different properties rated and why? <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What makes them so wonderful/desired?<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Year to Year Analysis - How does the weather compair from one year to the next and how is the Air B&B market effected?<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sports History - How does the success of sporting teams, like the Seahawks and Mariners, affect the success of the<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the Air B&B market?<br>
 
 
 
-
-
-
-Slalom Case S
+**Thank you all for your consideration.**
